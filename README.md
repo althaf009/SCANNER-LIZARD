@@ -35,11 +35,16 @@ For authentication testing, provide URLs where authentication is implemented.
 Example
 
 Enter the URL to test: https://example.com
+
 Enter the parameter to test: id
+
 Enter the POST URL for SQL Injection testing (leave empty to skip): https://example.com/login
+
 Enter the URL for Basic Authentication testing: https://example.com/admin
+
 Enter the URL for Form Authentication testing: https://example.com/login
 Results
+
 The script will print out the results of the SQL Injection, XSS, and authentication tests directly in the terminal.
 Vulnerabilities found will be highlighted in red, and if no vulnerabilities are found, the results will be indicated in green.
 Contributing
