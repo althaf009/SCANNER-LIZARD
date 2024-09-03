@@ -19,7 +19,7 @@
 
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/LIZARD.git
+git clone https://github.com/althaf009/SCANNER-LIZARD.git
 cd LIZARD
 Usage
 Run the Scanner:
