@@ -19,7 +19,6 @@
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/LIZARD.git
 cd LIZARD
 Usage
@@ -27,8 +26,6 @@ Run the Scanner:
 
 Execute the script from the command line:
 
-bash
-Copy code
 python lizard_scanner.py
 Provide Input:
 
@@ -36,8 +33,7 @@ Enter the URL you want to test.
 Provide the parameter name if you're testing for SQL Injection or XSS vulnerabilities.
 For authentication testing, provide URLs where authentication is implemented.
 Example
-bash
-Copy code
+
 Enter the URL to test: https://example.com
 Enter the parameter to test: id
 Enter the POST URL for SQL Injection testing (leave empty to skip): https://example.com/login
